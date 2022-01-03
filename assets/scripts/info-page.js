@@ -106,8 +106,8 @@ function saveToStorage() {
 
 // related content (fetching from 2nd AIP)
 
-var comicApiPublicKey = "b6086cc7ddad64bdcdc0d9681c40e48d";
-var comicApiPrivateKey = "171a555d8009414cf5e463747ef4a609ff79e0bd";
+var comicApiPublicKey = "6e1d8c8466444b4b3e742f67e0e66ef1";
+var comicApiPrivateKey = "07395ea282bfa4a1d2fcf5c2134ce83630f03c4d";
 var ts = new Date();
 var hashMD5 = CryptoJS.MD5(
   ts + comicApiPrivateKey + comicApiPublicKey
