@@ -13,18 +13,18 @@
 ## Installation
 No install required
 ## Usage
-Open in browser.  https://ajread13.github.io/Movie-Hype-Generator/
+Open in browser.  https://tinastanczyk.github.io/Movie-Hype-Generator/
 ## Screenshot
 ![screenshot start](assets/images/savedMovies.png) 
 ![screenshot modal](assets/images/modalExample.png)
 ![screenshot infopage](assets/images/movieInfoPage.png)
 ![screenshot QR-Code](assets/images/QRcode.png)
 ## Credits
-Tina Stanczyk & Michael Hranek
+Andrew J Read & Michael Hranek
 ## License
 MIT License
 
-Copyright (c) [2021] "Andrew J Read"
+Copyright (c) [2021] "Tina Stanczyk"
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
